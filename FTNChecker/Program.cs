@@ -21,7 +21,7 @@ namespace FTNChecker
 			{
 				Environment.Exit(0);
 			}
-			Colorful.Console.Title = (Colorful.Console.Title = "FORNITE KEKER V1.0 | By Sexify");
+			Colorful.Console.Title = (Colorful.Console.Title = "FORNITE KEKER V1.0 | By Luminous");
 			Colorful.Console.Clear();
 			Colorful.Console.WriteLine();
 			Colorful.Console.Write("                            █████▒▒█████   ██▀███  ▄▄▄█████▓ ███▄    █  ██▓▄▄▄█████▓▓█████  \n", Color.Red);
